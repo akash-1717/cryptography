@@ -25,7 +25,7 @@ print("Modified Hash:", modified_hash)
 # Original Message: Hello, World!
 # Original Hash: 1116
 # --- Receiver Computing Hash ---
-# Computed Hash: 1116
+# Computed Hash: 1116 
 
 # Modified Message: Hello, World!!
 # Modified Hash: 1166

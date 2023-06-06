@@ -15,7 +15,7 @@ x = 6
 y = 15
 
 symmetric_key = generate_symmetric_key(g, p, x, y)
-
+ 
 print("Symmetric Key:", symmetric_key)
 
 # Output:
